@@ -6,7 +6,9 @@ class CarCategory extends Base {
 
         this.carIds = carIds, 
         this.price = price
+        this.id = id
     }
+ 
     
 }
 
